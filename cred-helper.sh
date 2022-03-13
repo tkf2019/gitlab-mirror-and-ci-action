@@ -1,2 +1,2 @@
 #!/bin/sh
-exec echo "$GITLAB_PASSWORD"
+exec echo "$GITLAB_PROJECT_TOKEN"
